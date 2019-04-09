@@ -5,7 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "dcr-engine": "^1.0.2",
-    "dcr-graphql": "^0.0.4"
+    "dcr-graphql": "^0.0.4",
+    "mongoose": "^5.5.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
